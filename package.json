@@ -44,7 +44,7 @@
   "author": "Vitali Haradkou <vitalicset@yandex.ru>",
   "license": "MIT",
   "devDependencies": {
-    "@changesets/cli": "2.29.5",
+    "@changesets/cli": "^2.29.8",
     "@types/node": "24.1.0",
     "@types/nodemailer": "6.4.17",
     "tsup": "8.5.0",
@@ -55,6 +55,6 @@
     "@playwright/test": ">=1.13.0"
   },
   "dependencies": {
-    "nodemailer": "7.0.5"
+    "nodemailer": "^7.0.13"
   }
 }
